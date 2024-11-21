@@ -47,7 +47,7 @@
   },
   "scripts": {
     "start": "concurrently \"node server/index.js\" \"react-scripts start\"",
-    "build": "concurrently \"node server/index.js\" \"react-scripts build\""
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [

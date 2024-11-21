@@ -30,7 +30,7 @@ const Footer = () => {
             BLUFFSCASINO
           </Grid>
           <Grid item xs={3} className="info">
-            © 2022 BluffsCasino. All Rights Reserved.
+            BluffsCasino. All Rights Reserved.
           </Grid>
         </Grid>
         <Grid item xs={4} container direction="row" justifyContent="center" alignItems="center" spacing={1} className="btn-group">
